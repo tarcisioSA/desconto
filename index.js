@@ -16,7 +16,7 @@ function calcular() {
     var desconto7x = (valorBruto - (valorBruto * 0.24)).toFixed(2).replace('.', ',')
     var desconto8x = (valorBruto - (valorBruto * 0.23)).toFixed(2).replace('.', ',')
     var desconto9x = (valorBruto - (valorBruto * 0.22)).toFixed(2).replace('.', ',')
-    var desconto10x = (valorBruto - (valorBruto * 0.21)).toFixed(2).replace('.', ',')
+    var desconto10x = (valorBruto - (valorBruto * 0.20)).toFixed(2).replace('.', ',')
     var desconto11x = (valorBruto - (valorBruto * 0.20)).toFixed(2).replace('.', ',')
     var desconto12x = (valorBruto - (valorBruto * 0.20)).toFixed(2).replace('.', ',')
 
