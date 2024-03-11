@@ -49,6 +49,12 @@ body {
 
 .resultado {
     margin-top: 20px;
+    
+}
+
+.resultado p:hover{
+    font-weight: bolder;
+    text-shadow: black;
 }
 
 .resultado p {
